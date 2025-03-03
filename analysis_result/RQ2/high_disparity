@@ -1,0 +1,8 @@
+For 343 posts, 1372 rankings, 2058 pairs of rankings
+The rankings are consistent for 82 times with rate of 0.239067055393586
+Cumulated Different rankings: 614
+On average, for each 4 rankings of the same question, GPT generates 1.7900874635568513 different rankings
+Cumulated Severe Disagreement: 880 among 2058 pairs of rankings
+Average Severe disagreement for rankings of the same question: 0.42759961127308066
+Cumulated Average Kendall's Tau Score (Agreement Level): 1.170373982883869
+Average Kendall's Tau Score (Agreement Level): 0.003412169046308656
