@@ -1,5 +1,7 @@
 # ChatGPT Relationship Evaluation
 
+Link to our research paper: https://ojs.aaai.org/index.php/ICWSM/article/view/31338
+
 Due to the large size of the raw dataset (~46GB), it is not included in this repository. If you would like access to the dataset, please contact us via email:
 - **Kevin Leach**: kevin.leach@vanderbilt.edu  
 - **Yu Huang**: yu.huang@vanderbilt.edu  
@@ -26,3 +28,6 @@ The repository includes scripts for **data collection, OpenAI API evaluation, an
 - **`comment_length_preference.py`** – Analyzes GPT's ranking preferences based on comment length.
 - **`IRA_analysis.py`** – Measures inter-rater agreement between GPT rankings and human rankings.
 - **`randomness_check.py`** – Evaluates the consistency of GPT-generated rankings.
+
+## Analysis Result
+The repository also includes the analysis results of each Research Question. For more details, please refer to our research paper's result and analysis section.
