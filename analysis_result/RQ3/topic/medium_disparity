@@ -1,0 +1,13 @@
+Total of 11081 posts examined
+Average length of choice 1 is 533.0586589657973
+Average lexical diversity of choice 1 is 0.8937894426758896
+Average length of choice 2 is 527.5122281382546
+Average lexical diversity of choice 2 is 0.8931199987712656
+Average length of choice 3 is 499.38480281563034
+Average lexical diversity of choice 3 is 0.89682493664297
+Average length of choice 4 is 451.9429654363325
+Average lexical diversity of choice 4 is 0.9031569778627496
+Found 682 'strict' preferences and 6376 'loose' preferences.
+Number of posts where the combined length of the first two choices is longer than the combined length of the last two: 6301
+When ChatGPT prefers the longer comment, the average length difference between the first choice and last choice is 260.2430286075264
+When ChatGPT does NOT prefer the longer comment, the average length difference between the first choice and last choice is -179.12733507806155
